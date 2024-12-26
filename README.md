@@ -37,5 +37,5 @@ Caso queira entrar em contato comigo:
 
 <h1>Meu 2º Projeto - We Care <h1/>
 
-<img src=""/>
+<img src="https://raw.githubusercontent.com/GMarin89/PROJETO_1/refs/heads/main/Grey%20Black%20Modern%20Website%20Laptop%20Mockup%20Instagram%20Story.png"/>
 
