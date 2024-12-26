@@ -4,7 +4,7 @@
 
 # Projeto We Care 🌟  
 
-Este repositório apresenta o **projeto We Care**, o meu **segundo trabalho** como desenvolvedor. Aqui, consegui aplicar mais recursos e conhecimento adquiridos ao longo da minha jornada, resultando em um projeto que reflete dedicação e aprendizado contínuo.  
+Este repositório apresenta o **projeto We Care**, o meu **primeiro Projeto** como desenvolvedor. Aqui, consegui aplicar mais recursos e conhecimento adquiridos ao longo da minha jornada, resultando em um projeto que reflete dedicação e aprendizado contínuo.  
 
 O desenvolvimento do We Care demandou **várias horas de trabalho**, focadas em aprimorar a funcionalidade, usabilidade e qualidade do código. Meu objetivo foi criar algo que não apenas atendesse às expectativas, mas que também me ajudasse a crescer profissionalmente.  
 
@@ -35,7 +35,7 @@ Caso queira entrar em contato comigo:
 
 ---
 
-<h1>Meu 2º Projeto - We Care <h1/>
+<h1>1º Projeto - We Care <h1/>
 
 <img src="https://raw.githubusercontent.com/GMarin89/PROJETO_1/refs/heads/main/Grey%20Black%20Modern%20Website%20Laptop%20Mockup%20Instagram%20Story.png"/>
 
